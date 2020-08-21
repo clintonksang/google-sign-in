@@ -12,7 +12,7 @@ description: A new Flutter project.
 # build by specifying --build-name and --build-number, respectively.
 # In Android, build-name is used as versionName while build-n
 # Read more about Android versioning at https://developer.android.com/studio/publish/versioning
-# In iOS, build-name is used as CFBundleShor
+# In
 
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
